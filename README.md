@@ -123,22 +123,14 @@ Supports modern dark and light themes using Flutter ColorScheme.
 
 Developed by **Netturi Pavankalyan**
 
-[
-
 ![GitHub](https://img.shields.io/badge/GitHub-Netturi--Pavankalyan-black?style=flat&logo=github)
 
-](https://github.com/Netturi-Pavankalyan)
-[
+(https://github.com/Netturi-Pavankalyan)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
+![LinkedIn]
+(https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
 
 ](https://www.linkedin.com/in/your-linkedin-username)
-
----
-
-## 🔗 My Other Projects
-
-- 🍰 **Bakery Shop App** — Currently working on! Stay tuned! 🚀
 
 ---
 
