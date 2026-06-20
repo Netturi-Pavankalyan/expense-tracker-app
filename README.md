@@ -1,13 +1,13 @@
-# 💰 Flutter Expense Tracker
+# 💰 Expense Tracker
 
 A simple and modern Expense Tracker application built using Flutter and Dart.  
 This app helps users manage their daily expenses efficiently with a clean Material 3 UI and smooth user experience.
 
 ---
 
-# 📖 About Project
+## 📖 About Project
 
-Flutter Expense Tracker is a beginner-friendly mobile application developed using Flutter.  
+Expense Tracker is a beginner-friendly mobile application developed using Flutter.  
 The application allows users to add, view, and delete expenses easily while maintaining a clean and responsive user interface.
 
 This project demonstrates:
@@ -18,11 +18,11 @@ This project demonstrates:
 - Material 3 theming
 - Clean Flutter widget structure
 
-The app is designed mainly for learning Flutter fundamentals and improving UI development skills.
+> 🎯 This is my **first Flutter project**, built 1.5 months into my Flutter journey!
 
 ---
 
-# 🚀 Features
+## 🚀 Features
 
 - ➕ Add new expenses
 - 🗑 Delete expenses
@@ -36,26 +36,26 @@ The app is designed mainly for learning Flutter fundamentals and improving UI de
 
 ---
 
-# 📸 Screens
+## 📸 Screens
 
-## 🏠 Home Screen
+### 🏠 Home Screen
 - Displays all expense records
 - Shows expense title, amount, date, and category
 - Delete expense functionality
 
-## ➕ Add Expense Bottom Sheet
+### ➕ Add Expense Bottom Sheet
 - Add expense title
 - Enter amount
 - Select category
 - Pick date
 - Save and cancel buttons
 
-## ↩ Snackbar Action
+### ↩ Snackbar Action
 - Undo deleted expenses instantly
 
 ---
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Flutter
 - Dart
@@ -63,30 +63,40 @@ The app is designed mainly for learning Flutter fundamentals and improving UI de
 
 ---
 
-# ⚙️ Functionality
+## ⚙️ Functionality
 
-## ➕ Add Expense
+### ➕ Add Expense
 Users can add a new expense using the modal bottom sheet form.
 
-## 🗑 Delete Expense
+### 🗑 Delete Expense
 Expenses can be removed from the expense list.
 
-## ↩ Undo Delete
+### ↩ Undo Delete
 Snackbar provides undo functionality after deleting an expense.
 
-## 📂 Expense Categories
+### 📂 Expense Categories
 Expenses are organized using categories like:
-- Work
-- Leisure
-- Food
-- Travel
+- 💼 Work
+- 🎮 Leisure
+- 🍔 Food
+- ✈️ Travel
 
-## 🎨 Theme Support
+### 🎨 Theme Support
 Supports modern dark and light themes using Flutter ColorScheme.
 
 ---
 
-# 🎨 UI Highlights
+## 📱 Download APK
+
+[
+
+![Download APK](https://img.shields.io/badge/Download-APK-orange?style=for-the-badge&logo=android)
+
+](https://github.com/Netturi-Pavankalyan/expense-tracker-app/releases/download/v1.0.0/app-release.apk)
+
+---
+
+## 🎨 UI Highlights
 
 - Clean and minimal UI
 - Material 3 design system
@@ -97,7 +107,7 @@ Supports modern dark and light themes using Flutter ColorScheme.
 
 ---
 
-# 📌 Future Improvements
+## 📌 Future Improvements
 
 - 📈 Expense charts & analytics
 - 💾 Local database storage
@@ -109,13 +119,29 @@ Supports modern dark and light themes using Flutter ColorScheme.
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-Developed by **Pavankalyan** using Flutter and Dart.
+Developed by **Netturi Pavankalyan**
+
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-Netturi--Pavankalyan-black?style=flat&logo=github)
+
+](https://github.com/Netturi-Pavankalyan)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
+
+](https://www.linkedin.com/in/your-linkedin-username)
 
 ---
 
-# ⭐ Support
+## 🔗 My Other Projects
 
-If you like this project, give it a ⭐ on GitHub.
+- 🍰 **Bakery Shop App** — Currently working on! Stay tuned! 🚀
 
+---
+
+## ⭐ Support
+
+If you like this project, please give it a ⭐ on GitHub — it means a lot! 🙏
