@@ -1,12 +1,10 @@
 # 💰 Expense Tracker
-
 A simple and modern Expense Tracker application built using Flutter and Dart.  
 This app helps users manage their daily expenses efficiently with a clean Material 3 UI and smooth user experience.
 
 ---
 
 ## 📖 About Project
-
 Expense Tracker is a beginner-friendly mobile application developed using Flutter.  
 The application allows users to add, view, and delete expenses easily while maintaining a clean and responsive user interface.
 
@@ -23,7 +21,6 @@ This project demonstrates:
 ---
 
 ## 🚀 Features
-
 - ➕ Add new expenses
 - 🗑 Delete expenses
 - ↩ Undo delete functionality
@@ -56,7 +53,6 @@ This project demonstrates:
 ---
 
 ## 🛠️ Technologies Used
-
 - Flutter
 - Dart
 - Material Design 3
@@ -88,16 +84,11 @@ Supports modern dark and light themes using Flutter ColorScheme.
 
 ## 📱 Download APK
 
-[
-
-![Download APK](https://img.shields.io/badge/Download-APK-orange?style=for-the-badge&logo=android)
-
-](https://github.com/Netturi-Pavankalyan/expense-tracker-app/releases/download/v1.0.0/app-release.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-orange?style=for-the-badge&logo=android)](https://github.com/Netturi-Pavankalyan/expense-tracker-app/releases/download/v1.0.0/app-release.apk)
 
 ---
 
 ## 🎨 UI Highlights
-
 - Clean and minimal UI
 - Material 3 design system
 - Responsive layouts
@@ -108,7 +99,6 @@ Supports modern dark and light themes using Flutter ColorScheme.
 ---
 
 ## 📌 Future Improvements
-
 - 📈 Expense charts & analytics
 - 💾 Local database storage
 - ☁ Firebase integration
@@ -123,17 +113,9 @@ Supports modern dark and light themes using Flutter ColorScheme.
 
 Developed by **Netturi Pavankalyan**
 
-![GitHub](https://img.shields.io/badge/GitHub-Netturi--Pavankalyan-black?style=flat&logo=github)
-
-(https://github.com/Netturi-Pavankalyan)
-
-![LinkedIn]
-(https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
-
-](https://www.linkedin.com/in/your-linkedin-username)
+[![GitHub](https://img.shields.io/badge/GitHub-Netturi--Pavankalyan-black?style=flat&logo=github)](https://github.com/Netturi-Pavankalyan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username)
 
 ---
 
 ## ⭐ Support
-
 If you like this project, please give it a ⭐ on GitHub — it means a lot! 🙏
